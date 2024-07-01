@@ -1,0 +1,9 @@
+2024-06-24T18:28:37+00:00 DEBUG Mail send to 9
+2024-06-24T18:28:37+00:00 DEBUG Sending process completed
+2024-06-24T19:01:47+00:00 INFO Dokan order commission regenerated successfully.
+2024-06-24T20:49:05+00:00 DEBUG Creating sub order for vendor: #19
+2024-06-24T20:49:05+00:00 DEBUG #760 - Creating Shipping.
+2024-06-24T20:49:05+00:00 DEBUG Created sub order : #760
+2024-06-24T20:49:05+00:00 DEBUG Creating sub order for vendor: #18
+2024-06-24T20:49:05+00:00 DEBUG #761 - Creating Shipping.
+2024-06-24T20:49:05+00:00 DEBUG Created sub order : #761

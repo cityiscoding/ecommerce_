@@ -1,0 +1,10 @@
+2024-06-30T00:34:29+00:00 DEBUG Creating sub order for vendor: #19
+2024-06-30T00:34:29+00:00 DEBUG #779 - Creating Shipping.
+2024-06-30T00:34:29+00:00 DEBUG Created sub order : #779
+2024-06-30T00:34:29+00:00 DEBUG Creating sub order for vendor: #18
+2024-06-30T00:34:29+00:00 DEBUG #780 - Creating Shipping.
+2024-06-30T00:34:30+00:00 DEBUG Created sub order : #780
+2024-06-30T20:38:59+00:00 DEBUG Mail send to 18
+2024-06-30T20:39:02+00:00 DEBUG Mail send to 18
+2024-06-30T20:39:05+00:00 DEBUG Mail send to 19
+2024-06-30T20:39:05+00:00 DEBUG Sending process completed

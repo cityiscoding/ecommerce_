@@ -1,0 +1,10 @@
+/* Ẩn nút hoàn thành trong bảng quản lý đơn hàng */
+.dokan-order-action a[data-original-title="Hoàn thành"] {
+    display: none !important;
+}
+
+/* Ẩn cả nút "Xử lý" và "Hoàn thành" trong bảng quản lý đơn hàng */
+.dokan-order-action a[data-original-title="Xử lý"],
+.dokan-order-action a[data-original-title="Hoàn thành"] {
+    display: none !important;
+}

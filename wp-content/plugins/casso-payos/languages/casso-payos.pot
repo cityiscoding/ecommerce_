@@ -1,0 +1,263 @@
+# Copyright (C) 2022 Casso Team
+# This file is distributed under the GNU General Public License v3.0.
+msgid ""
+msgstr ""
+"Project-Id-Version: CASSO payOS 2.1\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/payos-woo\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2022-06-16T16:14:02+00:00\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"X-Generator: WP-CLI 2.6.0\n"
+"X-Domain: payos\n"
+
+#. Plugin Name of the plugin
+msgid "CASSO payOS"
+msgstr ""
+
+#. Plugin URI of the plugin
+msgid "https://casso.vn/plugin-payos-woocommerce/"
+msgstr ""
+
+#. Description of the plugin
+msgid "Quick bank transfer by generating QR codes that are accepted by 37 Vietnam banking App: Vietcombank, Vietinbank, BIDV, ACB, VPBank, MBank, TPBank, Digimi, MSB ... Developed for WooCommerce."
+msgstr ""
+
+#. Author of the plugin
+msgid "Casso Team"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://casso.vn"
+msgstr ""
+
+#: classes/class-wc-gateway-casso-payos.php:40
+msgid "Direct bank transfer (Scan VietQR)"
+msgstr ""
+
+#: classes/class-wc-gateway-casso-payos.php:41
+msgid "Take payments by scanning QR code with Vietnamese banking App. Supported by most major banks in Vietnam"
+msgstr ""
+
+#: classes/class-wc-gateway-casso-payos.php:145
+msgid "Payment by bank transfer (Scan VietQR)"
+msgstr ""
+
+#: classes/class-wc-gateway-casso-payos.php:152
+msgid "Pay for orders via payOS. Supported by almost Vietnamese banking apps"
+msgstr ""
+
+#: classes/class-wc-gateway-casso-payos.php:166
+msgid "Prefix"
+msgstr ""
+
+#: classes/class-wc-gateway-casso-payos.php:168
+msgid "Prefix used to combine with order code to create money transfer content, Set rules: no spaces, no more than 15 characters and no special characters. Violations will be deleted"
+msgstr ""
+
+#: classes/class-wc-gateway-casso-payos.php:212
+msgid "Bank name"
+msgstr ""
+
+#: classes/class-wc-gateway-casso-payos.php:233
+msgid "Account name"
+msgstr ""
+
+#: classes/class-wc-gateway-casso-payos.php:241
+#: classes/class-wc-gateway-casso-payos.php:548
+msgid "Account number"
+msgstr ""
+
+#: classes/class-wc-gateway-casso-payos.php:250
+msgid "Developer ID"
+msgstr ""
+
+#: classes/class-wc-gateway-casso-payos.php:422
+#: classes/class-wc-gateway-casso-payos.php:568
+msgid "Amount"
+msgstr ""
+
+#: classes/class-wc-gateway-casso-payos.php:426
+#: classes/class-wc-gateway-casso-payos.php:580
+msgid "Memo"
+msgstr ""
+
+#: classes/class-wc-gateway-casso-payos.php:472
+msgid "Bank transfer QR code"
+msgstr ""
+
+#: classes/class-wc-gateway-casso-payos.php:510
+msgid "Then open the banking App and scan the transfer QR"
+msgstr ""
+
+#: classes/class-wc-gateway-casso-payos.php:529
+msgid "Please transfer the correct content <b>%s</b> for we can confirm the payment"
+msgstr ""
+
+#: classes/class-wc-gateway-casso-payos.php:556
+msgid "Bank"
+msgstr ""
+
+#: classes/class-wc-gateway-casso-payos.php:220
+msgid "Client ID"
+msgstr ""
+
+#: classes/class-wc-gateway-casso-payos.php:229
+msgid "API Key"
+msgstr ""
+
+#: classes/class-wc-gateway-casso-payos.php:957
+msgid "Payment canceled"
+msgstr ""
+
+#: classes/class-wc-gateway-casso-payos.php:967
+msgid "Your order will be automatically confirmed once the payment transaction is received."
+msgstr ""
+
+#: classes/class-wc-gateway-casso-payos.php:967
+msgid "The order will be manually confirmed by the merchant after receiving the payment transaction."
+msgstr ""
+
+#: classes/class-wc-gateway-casso-payos.php:967
+msgid "Order has been successfully paid."
+msgstr ""
+
+#: classes/class-wc-gateway-casso-payos.php:391
+msgid "Use Payment Gateway"
+msgstr ""
+
+#: classes/class-wc-gateway-casso-payos.php:339
+msgid "Status if payment is failed:"
+msgstr ""
+
+#: classes/class-wc-gateway-casso-payos.php:324
+msgid "Status if payment is successful:"
+msgstr ""
+
+#: classes/class-wc-gateway-casso-payos.php:1080
+msgid "Default"
+msgstr ""
+
+#: classes/class-wc-gateway-casso-payos.php:1080
+msgid "Default"
+msgstr ""
+
+#: classes/class-wc-gateway-casso-payos.php:105
+msgid "Prefix:"
+msgstr ""
+
+#: classes/class-wc-gateway-casso-payos.php:105
+msgid "Maximum 3 characters, no spaces and no special characters. If contained, it will be deleted. Please do not prefix starting with FT, TF, TT, VQR"
+msgstr ""
+
+#: classes/class-wc-gateway-casso-payos.php:99
+msgid "Order has been overpaid"
+msgstr ""
+
+#: classes/class-wc-gateway-casso-payos.php:105
+msgid "Order has been underpaid"
+msgstr ""
+
+#: classes/class-wc-gateway-casso-payos.php:105
+msgid "Redirect payOS:"
+msgstr ""
+
+#: classes/class-wc-gateway-casso-payos.php:105
+msgid "On/Off"
+msgstr ""
+
+#: classes/class-wc-gateway-casso-payos.php:105
+msgid "<b>Transaction Infomation:</b> <br> Order Code: %s <br> Amount: %s <br> Description: %s <br> Account Number: %s <br> Reference: %s"
+msgstr ""
+
+#: classes/class-wc-gateway-casso-payos.php:365
+msgid "Show"
+msgstr ""
+
+#: classes/class-wc-gateway-casso-payos.php:479
+msgid "Hide"
+msgstr ""
+
+#: classes/class-wc-gateway-casso-payos.php:381
+msgid "Connection Information"
+msgstr ""
+
+#: classes/class-wc-gateway-casso-payos.php:393
+msgid "No Connection"
+msgstr ""
+
+#: classes/class-wc-gateway-casso-payos.php:147
+msgid "Successful webhook registration"
+msgstr ""
+
+#: classes/class-wc-gateway-casso-payos.php:154
+msgid "Webhook creation failed"
+msgstr ""
+
+#: classes/class-wc-gateway-casso-payos.php:154
+msgid "Settings saved"
+msgstr ""
+
+#: classes/class-wc-gateway-casso-payos.php:154
+msgid "Can not save settings! Please refresh this page."
+msgstr ""
+
+#: classes/class-wc-gateway-casso-payos.php:397
+msgid "Show Details"
+msgstr ""
+
+#: classes/class-wc-gateway-casso-payos.php:402
+msgid "Gateway name"
+msgstr ""
+
+#: classes/class-wc-gateway-casso-payos.php:462
+msgid "Show less"
+msgstr ""
+
+#: classes/class-wc-gateway-casso-payos.php:469
+msgid "Show more"
+msgstr ""
+
+#: classes/class-wc-gateway-casso-payos.php:1241
+msgid "Order has been successfully paid."
+msgstr ""
+
+#: classes/class-wc-gateway-casso-payos.php:1241
+msgid "payOS has not been set up yet!"
+msgstr ""
+
+#: classes/class-wc-gateway-casso-payos.php:1241
+msgid "payOS has not been set up by the administrator. Please contact the system administrator."
+msgstr ""
+
+#: classes/class-wc-gateway-casso-payos.php:1241
+msgid "Please wait a moment!"
+msgstr ""
+
+#: classes/class-wc-gateway-casso-payos.php:342
+msgid "Instructions to get Client ID and API Key"
+msgstr ""
+
+#: classes/class-wc-gateway-casso-payos.php:323
+msgid "Enter information of payOS"
+msgstr ""
+
+#: classes/class-wc-gateway-casso-payos.php:341
+msgid "Check connection payOS"
+msgstr ""
+
+
+
+
+
+
+
+
+
+
+
+
+

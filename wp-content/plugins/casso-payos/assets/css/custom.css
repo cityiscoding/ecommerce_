@@ -1,0 +1,27 @@
+.list-bank {
+    max-width: 90px !important;
+    margin-bottom: 2px;
+    margin-right: 4px;
+    width: 100%;
+}
+
+.list-bank-box{
+    background: #fff !important;
+    border: 1px solid #ccc;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.list-bank img {
+    object-fit: contain;
+    margin: 0px !important;
+}
+.payos-row {
+    display: -ms-flexbox;
+    display: flex;
+    justify-content: flex-start;
+    -ms-flex-wrap: wrap;
+    flex-wrap: wrap;
+}

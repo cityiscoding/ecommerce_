@@ -1,0 +1,286 @@
+# Copyright (C) 2021 Casso Team
+# This file is distributed under the GNU General Public License v3.0.
+msgid ""
+msgstr ""
+"Project-Id-Version: CASSO payOS 2.0.0\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/casso-payos\n"
+"POT-Creation-Date: 2022-06-16T16:14:02+00:00\n"
+"PO-Revision-Date: 2023-02-27 01:39+0000\n"
+"Last-Translator: \n"
+"Language-Team: Tiếng Việt\n"
+"Language: vi\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Domain: casso-payos\n"
+"X-Loco-Version: 2.6.3; wp-5.7.2"
+
+#. Plugin Name of the plugin
+msgid "CASSO payOS"
+msgstr "CASSO payOS"
+
+#. Plugin URI of the plugin
+msgid "https://casso.vn/plugin-payos-woocommerce/"
+msgstr "https://casso.vn/plugin-payos-woocommerce/"
+
+#. Description of the plugin
+msgid ""
+"Quick bank transfer by generating QR codes that are accepted by 37 Vietnam "
+"banking App: Vietcombank, Vietinbank, BIDV, ACB, VPBank, MBank, TPBank, "
+"Digimi, MSB ... Developed for WooCommerce."
+msgstr ""
+"Chuyển khoản ngân hàng nhanh chóng bằng cách tạo mã QR được chấp nhận bởi 37 "
+"App ngân hàng Việt Nam: Vietcombank, Vietinbank, BIDV, ACB, VPBank, MBank, "
+"TPBank, Digimi, MSB ... Phát triển cho WooCommerce."
+
+#. Author of the plugin
+msgid "Casso Team"
+msgstr "Casso Team"
+
+#. Author URI of the plugin
+msgid "https://casso.vn"
+msgstr "https://casso.vn"
+
+#: classes/class-wc-gateway-casso-payos.php:40
+msgid "payOS"
+msgstr "payOS"
+
+#: classes/class-wc-gateway-casso-payos.php:41
+msgid ""
+"Take payments by scanning QR code with Vietnamese banking App. Supported by "
+"most major banks in Vietnam"
+msgstr ""
+"Thực hiện thanh toán bằng cách quét mã QR bằng App ngân hàng. Hỗ trợ bởi hầu "
+"hết các ngân hàng lớn Việt Nam"
+
+#: classes/class-wc-gateway-casso-payos.php:145
+msgid "Payment by bank transfer (Scan VietQR)"
+msgstr "Thanh toán chuyển khoản (Quét mã VietQR)"
+
+#: classes/class-wc-gateway-casso-payos.php:152
+#, fuzzy
+#| msgid ""
+#| "Pay for orders via payOS. Supported by almost Vietnamese "
+#| "banking apps"
+msgid ""
+"Pay for orders via payOS. Supported by almost Vietnamese "
+"banking apps"
+msgstr ""
+"Thanh toán đơn hàng qua payOS Tiện lợi và miễn phí. Hầu hết "
+"App ngân hàng Việt Nam đã hỗ trợ mã VietQR trên payOS"
+
+#: classes/class-wc-gateway-casso-payos.php:166
+msgid "Prefix"
+msgstr "Tiền tố"
+
+#: classes/class-wc-gateway-casso-payos.php:168
+msgid ""
+"Prefix used to combine with order code to create money transfer content, Set "
+"rules: no spaces, no more than 15 characters and no special characters. "
+"Violations will be deleted"
+msgstr ""
+"Tiền tố dùng để kết hợp với mã đơn hàng tạo nội dung chuyển tiền, Đặt quy "
+"tắc: không dấu cách, không quá 10 ký tự và không ký tự đặc biệt. Vi phạm sẽ "
+"bị xóa"
+
+#: classes/class-wc-gateway-casso-payos.php:212
+msgid "Bank name"
+msgstr "Ngân Hàng"
+
+#: classes/class-wc-gateway-casso-payos.php:233
+msgid "Account name"
+msgstr "Tên tài khoản"
+
+#: classes/class-wc-gateway-casso-payos.php:241 
+#: classes/class-wc-gateway-casso-payos.php:548
+msgid "Account number"
+msgstr "Số tài khoản"
+
+#: classes/class-wc-gateway-casso-payos.php:250
+msgid "Developer ID"
+msgstr "Developer ID"
+
+#: classes/class-wc-gateway-casso-payos.php:422 
+#: classes/class-wc-gateway-casso-payos.php:568
+msgid "Amount"
+msgstr "Số tiền"
+
+#: classes/class-wc-gateway-casso-payos.php:426 
+#: classes/class-wc-gateway-casso-payos.php:580
+msgid "Memo"
+msgstr "Nội dung"
+
+#: classes/class-wc-gateway-casso-payos.php:472
+msgid "QR code payment"
+msgstr "Mã QR thanh toán"
+
+#: classes/class-wc-gateway-casso-payos.php:510
+msgid "Then open the banking App and scan the transfer QR"
+msgstr "Sau đó mở ứng dụng ngân hàng và quét QR chuyển khoản"
+
+#: classes/class-wc-gateway-casso-payos.php:529
+msgid ""
+"Please transfer the correct content <b>%s</b> for we can confirm the payment"
+msgstr ""
+"Vui lòng chuyển đúng nội dung <b>%s</b> để chúng tôi có thể xác nhận thanh "
+"toán"
+
+#: classes/class-wc-gateway-casso-payos.php:556
+msgid "Bank"
+msgstr "Ngân hàng"
+
+#: classes/class-wc-gateway-casso-payos.php:220
+msgid "Client ID"
+msgstr "Client ID"
+
+#: classes/class-wc-gateway-casso-payos.php:229
+msgid "API Key"
+msgstr "API Key"
+
+#: classes/class-wc-gateway-casso-payos.php:957
+msgid "Payment canceled"
+msgstr "Đã hủy thanh toán"
+
+#: classes/class-wc-gateway-casso-payos.php:967
+msgid ""
+"Your order will be automatically confirmed once the payment transaction is "
+"received."
+msgstr ""
+"Đơn hàng của bạn sẽ được tự động xác nhận sau khi hệ thống ghi nhận giao "
+"dịch thanh toán chuyển khoản."
+
+#: classes/class-wc-gateway-casso-payos.php:967
+msgid ""
+"The order will be manually confirmed by the merchant after receiving the "
+"payment transaction."
+msgstr ""
+"Đơn hàng sẽ được xác nhận thủ công bởi người bán hàng sau khi nhận được giao "
+"dịch thanh toán."
+
+#: classes/class-wc-gateway-casso-payos.php:1094
+msgid "Order has been successfully paid."
+msgstr "Đơn hàng đã được thanh toán thành công."
+
+#: classes/class-wc-gateway-casso-payos.php:391
+msgid "Use Payment Gateway"
+msgstr "Sử dụng cổng thanh toán"
+
+#: classes/class-wc-gateway-casso-payos.php:339
+msgid "Status if payment is failed:"
+msgstr "Trạng thái nếu thanh toán thất bại:"
+
+#: classes/class-wc-gateway-casso-payos.php:324
+msgid "Status if payment is successful:"
+msgstr "Trạng thái nếu thanh toán thành công:"
+
+#: classes/class-wc-gateway-casso-payos.php:1080
+msgid "Default"
+msgstr "Mặc định"
+
+#: classes/class-wc-gateway-casso-payos.php:105
+msgid "Prefix:"
+msgstr "Tiền tố đơn hàng:"
+
+#: classes/class-wc-gateway-casso-payos.php:105
+msgid "Maximum 3 characters, no spaces and no special characters. If contained, it will be deleted. Please do not prefix starting with FT, TF, TT, VQR"
+msgstr ""
+"Tối đa 3 kí tự, không chứa khoảng trắng và kí tự đặc biệt. Nếu chứa sẽ bị "
+"xóa. Vui lòng không đặt tiền tố bắt đầu bằng FT, TF, TT, VQR"
+
+#: classes/class-wc-gateway-casso-payos.php:99
+msgid "Order has been overpaid"
+msgstr "Đơn hàng đã thanh toán dư"
+
+#: classes/class-wc-gateway-casso-payos.php:105
+msgid "Order has been underpaid"
+msgstr "Đơn hàng đã thanh toán thiếu"
+
+#: classes/class-wc-gateway-casso-payos.php:105
+msgid "Redirect payOS:"
+msgstr "Chuyển hướng trang thanh toán:"
+
+#: classes/class-wc-gateway-casso-payos.php:105
+msgid "On/Off"
+msgstr "Bật/Tắt"
+
+#: classes/class-wc-gateway-casso-payos.php:105
+msgid ""
+"<b>Transaction Infomation:</b> <br> Order Code: %s <br> Amount: %s <br> "
+"Description: %s <br> Account Number: %s <br> Reference: %s"
+msgstr ""
+"<b>Thông tin giao dịch:</b> <br> Mã đơn hàng: %s <br> Số tiền: %s <br> Mô tả:"
+" %s <br> Số tài khoản: %s <br> Mã tham chiếu: %s"
+
+#: classes/class-wc-gateway-casso-payos.php:365
+msgid "Show"
+msgstr "Hiện"
+
+#: classes/class-wc-gateway-casso-payos.php:479
+msgid "Hide"
+msgstr "Ẩn"
+
+#: classes/class-wc-gateway-casso-payos.php:381
+msgid "Connection Information"
+msgstr "Thông tin kết nối"
+
+#: classes/class-wc-gateway-casso-payos.php:393
+msgid "No Connection"
+msgstr "Chưa kết nối"
+
+#: classes/class-wc-gateway-casso-payos.php:147
+msgid "Successful webhook registration"
+msgstr "Tạo Webhook thành công"
+
+#: classes/class-wc-gateway-casso-payos.php:154
+msgid "Webhook creation failed"
+msgstr "Tạo Webhook thất bại"
+
+#: classes/class-wc-gateway-casso-payos.php:154
+msgid "Settings saved"
+msgstr "Lưu thiết lập"
+
+#: classes/class-wc-gateway-casso-payos.php:154
+msgid "Can not save settings! Please refresh this page."
+msgstr "Không thể lưu thiết lập! Hãy tải lại trang."
+
+#: classes/class-wc-gateway-casso-payos.php:397
+msgid "Show Details"
+msgstr "Hiển thị chi tiết"
+
+#: classes/class-wc-gateway-casso-payos.php:402
+msgid "Gateway name"
+msgstr "Tên cổng thanh toán"
+
+#: classes/class-wc-gateway-casso-payos.php:462
+msgid "Show less"
+msgstr "Thu gọn"
+
+#: classes/class-wc-gateway-casso-payos.php:469
+msgid "Show more"
+msgstr "Xem thêm"
+
+#: classes/class-wc-gateway-casso-payos.php:125
+msgid "payOS has not been set up yet!"
+msgstr "payOS chưa được hoàn tất thiết lập!"
+
+#: classes/class-wc-gateway-casso-payos.php:136
+msgid "payOS has not been set up by the administrator. Please contact the system administrator."
+msgstr "payOS chưa được quản trị viên thiết lập. Vui lòng liên hệ quản trị viên hệ thống."
+
+#: classes/class-wc-gateway-casso-payos.php:637
+msgid "Please wait a moment!"
+msgstr "Vui lòng đợi trong giây lát!"
+
+#: classes/class-wc-gateway-casso-payos.php:342
+msgid "Instructions to get Client ID and API Key"
+msgstr "Hướng dẫn lấy Client ID và API Key"
+
+#: classes/class-wc-gateway-casso-payos.php:323
+msgid "Enter information of payOS"
+msgstr "Nhập thông tin payOS"
+
+#: classes/class-wc-gateway-casso-payos.php:341
+msgid "Check connection payOS"
+msgstr "Kiểm tra kết nối payOS"

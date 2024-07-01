@@ -1,0 +1,39 @@
+2024-06-23T16:16:53+00:00 DEBUG Could not delete webhook: No API key provided.  (HINT: set your API key using "Stripe::setApiKey(<API-KEY>)".  You can generate API keys from the Stripe web interface.  See https://stripe.com/api for details, or email support@stripe.com if you have any questions.
+2024-06-23T16:16:53+00:00 DEBUG Could not create webhook: No API key provided.  (HINT: set your API key using "Stripe::setApiKey(<API-KEY>)".  You can generate API keys from the Stripe web interface.  See https://stripe.com/api for details, or email support@stripe.com if you have any questions.
+2024-06-23T16:19:56+00:00 INFO Variable product variations author updated successfully
+2024-06-23T16:37:07+00:00 DEBUG Không thể xóa webhook:No API key provided.  (HINT: set your API key using "Stripe::setApiKey(<API-KEY>)".  You can generate API keys from the Stripe web interface.  See https://stripe.com/api for details, or email support@stripe.com if you have any questions.
+2024-06-23T21:02:59+00:00 DEBUG Vendor Verification: Failed to send SMS. Error: Array
+(
+    [success] => 
+    [message] => Số điện thoại không hợp lệ.
+)
+2024-06-23T21:03:01+00:00 DEBUG Vendor Verification: Failed to send SMS. Error: Array
+(
+    [success] => 
+    [message] => Số điện thoại không hợp lệ.
+)
+2024-06-23T21:03:19+00:00 DEBUG Vendor Verification: Failed to send SMS. Error: Array
+(
+    [success] => 
+    [message] => Số điện thoại không hợp lệ.
+)
+2024-06-23T21:03:32+00:00 DEBUG Vendor Verification: Failed to send SMS. Error: Array
+(
+    [success] => 
+    [message] => Số điện thoại không hợp lệ.
+)
+2024-06-23T21:03:37+00:00 DEBUG Vendor Verification: Failed to send SMS. Error: Array
+(
+    [success] => 
+    [message] => Số điện thoại không hợp lệ.
+)
+2024-06-23T21:03:37+00:00 DEBUG Vendor Verification: Failed to send SMS. Error: Array
+(
+    [success] => 
+    [message] => Số điện thoại không hợp lệ.
+)
+2024-06-23T21:03:53+00:00 DEBUG Vendor Verification: Failed to send SMS. Error: Array
+(
+    [success] => 
+    [message] => Không thể gửi tin nhắn sms. Liên hệ với quản trị viên
+)

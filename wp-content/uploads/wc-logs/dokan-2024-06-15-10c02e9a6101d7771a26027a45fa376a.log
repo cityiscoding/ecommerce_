@@ -1,0 +1,45 @@
+2024-06-15T06:50:35+00:00 DEBUG Could not delete webhook: No API key provided.  (HINT: set your API key using "Stripe::setApiKey(<API-KEY>)".  You can generate API keys from the Stripe web interface.  See https://stripe.com/api for details, or email support@stripe.com if you have any questions.
+2024-06-15T06:50:35+00:00 DEBUG Could not create webhook: No API key provided.  (HINT: set your API key using "Stripe::setApiKey(<API-KEY>)".  You can generate API keys from the Stripe web interface.  See https://stripe.com/api for details, or email support@stripe.com if you have any questions.
+2024-06-15T06:57:19+00:00 DEBUG Could not delete webhook: No API key provided.  (HINT: set your API key using "Stripe::setApiKey(<API-KEY>)".  You can generate API keys from the Stripe web interface.  See https://stripe.com/api for details, or email support@stripe.com if you have any questions.
+2024-06-15T13:36:08+00:00 DEBUG Vendor Verification: Failed to send SMS. Error: Array
+(
+    [success] => 
+    [message] => Invalid phone number.
+)
+
+2024-06-15T13:36:08+00:00 DEBUG Vendor Verification: Failed to send SMS. Error: Array
+(
+    [success] => 
+    [message] => Invalid phone number.
+)
+
+2024-06-15T13:36:09+00:00 DEBUG Vendor Verification: Failed to send SMS. Error: Array
+(
+    [success] => 
+    [message] => Invalid phone number.
+)
+
+2024-06-15T13:36:25+00:00 DEBUG Vendor Verification: Failed to send SMS. Error: Array
+(
+    [success] => 
+    [message] => Không thể gửi tin nhắn sms. Liên hệ với quản trị viên
+)
+
+2024-06-15T13:36:38+00:00 DEBUG Vendor Verification: Failed to send SMS. Error: Array
+(
+    [success] => 
+    [message] => Invalid phone number.
+)
+
+2024-06-15T13:36:47+00:00 DEBUG Vendor Verification: Failed to send SMS. Error: Array
+(
+    [success] => 
+    [message] => Invalid phone number.
+)
+
+2024-06-15T13:36:52+00:00 DEBUG Vendor Verification: Failed to send SMS. Error: Array
+(
+    [success] => 
+    [message] => Invalid phone number.
+)
+

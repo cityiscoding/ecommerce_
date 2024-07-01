@@ -1,0 +1,151 @@
+[24-Jun-2024 10:13:27 UTC] PHP Fatal error:  Uncaught Error: Call to a member function get_cart() on null in /home/pallmal7/public_html/wp-content/themes/flatsome-child/functions.php:610
+Stack trace:
+#0 /home/pallmal7/public_html/wp-includes/class-wp-hook.php(324): hide_cod_for_specific_products(Array)
+#1 /home/pallmal7/public_html/wp-includes/plugin.php(205): WP_Hook->apply_filters(Array, Array)
+#2 /home/pallmal7/public_html/wp-content/plugins/woocommerce/includes/class-wc-payment-gateways.php(333): apply_filters('woocommerce_ava...', Array)
+#3 /home/pallmal7/public_html/wp-content/plugins/woocommerce/src/Admin/Features/OnboardingTasks/Tasks/AdditionalPayments.php(167): WC_Payment_Gateways->get_available_payment_gateways()
+#4 /home/pallmal7/public_html/wp-content/plugins/woocommerce/src/Admin/Features/OnboardingTasks/Tasks/AdditionalPayments.php(139): Automattic\WooCommerce\Admin\Features\OnboardingTasks\Tasks\AdditionalPayments::has_enabled_gateways(Object(Closure))
+#5 /home/pallmal7/public_html/wp-content/plugins/woocommerce/src/Admin/Features/Onboar in /home/pallmal7/public_html/wp-content/themes/flatsome-child/functions.php on line 610
+[24-Jun-2024 10:13:29 UTC] PHP Fatal error:  Uncaught Error: Call to a member function get_cart() on null in /home/pallmal7/public_html/wp-content/themes/flatsome-child/functions.php:610
+Stack trace:
+#0 /home/pallmal7/public_html/wp-includes/class-wp-hook.php(324): hide_cod_for_specific_products(Array)
+#1 /home/pallmal7/public_html/wp-includes/plugin.php(205): WP_Hook->apply_filters(Array, Array)
+#2 /home/pallmal7/public_html/wp-content/plugins/woocommerce/includes/class-wc-payment-gateways.php(333): apply_filters('woocommerce_ava...', Array)
+#3 /home/pallmal7/public_html/wp-content/plugins/woocommerce/src/Admin/Features/OnboardingTasks/Tasks/AdditionalPayments.php(167): WC_Payment_Gateways->get_available_payment_gateways()
+#4 /home/pallmal7/public_html/wp-content/plugins/woocommerce/src/Admin/Features/OnboardingTasks/Tasks/AdditionalPayments.php(139): Automattic\WooCommerce\Admin\Features\OnboardingTasks\Tasks\AdditionalPayments::has_enabled_gateways(Object(Closure))
+#5 /home/pallmal7/public_html/wp-content/plugins/woocommerce/src/Admin/Features/Onboar in /home/pallmal7/public_html/wp-content/themes/flatsome-child/functions.php on line 610
+[24-Jun-2024 10:13:32 UTC] PHP Fatal error:  Uncaught Error: Call to a member function get_cart() on null in /home/pallmal7/public_html/wp-content/themes/flatsome-child/functions.php:610
+Stack trace:
+#0 /home/pallmal7/public_html/wp-includes/class-wp-hook.php(324): hide_cod_for_specific_products(Array)
+#1 /home/pallmal7/public_html/wp-includes/plugin.php(205): WP_Hook->apply_filters(Array, Array)
+#2 /home/pallmal7/public_html/wp-content/plugins/woocommerce/includes/class-wc-payment-gateways.php(333): apply_filters('woocommerce_ava...', Array)
+#3 /home/pallmal7/public_html/wp-content/plugins/woocommerce/src/Admin/Features/OnboardingTasks/Tasks/AdditionalPayments.php(167): WC_Payment_Gateways->get_available_payment_gateways()
+#4 /home/pallmal7/public_html/wp-content/plugins/woocommerce/src/Admin/Features/OnboardingTasks/Tasks/AdditionalPayments.php(139): Automattic\WooCommerce\Admin\Features\OnboardingTasks\Tasks\AdditionalPayments::has_enabled_gateways(Object(Closure))
+#5 /home/pallmal7/public_html/wp-content/plugins/woocommerce/src/Admin/Features/Onboar in /home/pallmal7/public_html/wp-content/themes/flatsome-child/functions.php on line 610
+[24-Jun-2024 10:13:35 UTC] PHP Fatal error:  Uncaught Error: Call to a member function get_cart() on null in /home/pallmal7/public_html/wp-content/themes/flatsome-child/functions.php:610
+Stack trace:
+#0 /home/pallmal7/public_html/wp-includes/class-wp-hook.php(324): hide_cod_for_specific_products(Array)
+#1 /home/pallmal7/public_html/wp-includes/plugin.php(205): WP_Hook->apply_filters(Array, Array)
+#2 /home/pallmal7/public_html/wp-content/plugins/woocommerce/includes/class-wc-payment-gateways.php(333): apply_filters('woocommerce_ava...', Array)
+#3 /home/pallmal7/public_html/wp-content/plugins/woocommerce/src/Admin/Features/OnboardingTasks/Tasks/AdditionalPayments.php(167): WC_Payment_Gateways->get_available_payment_gateways()
+#4 /home/pallmal7/public_html/wp-content/plugins/woocommerce/src/Admin/Features/OnboardingTasks/Tasks/AdditionalPayments.php(139): Automattic\WooCommerce\Admin\Features\OnboardingTasks\Tasks\AdditionalPayments::has_enabled_gateways(Object(Closure))
+#5 /home/pallmal7/public_html/wp-content/plugins/woocommerce/src/Admin/Features/Onboar in /home/pallmal7/public_html/wp-content/themes/flatsome-child/functions.php on line 610
+[24-Jun-2024 10:13:38 UTC] PHP Fatal error:  Uncaught Error: Call to a member function get_cart() on null in /home/pallmal7/public_html/wp-content/themes/flatsome-child/functions.php:610
+Stack trace:
+#0 /home/pallmal7/public_html/wp-includes/class-wp-hook.php(324): hide_cod_for_specific_products(Array)
+#1 /home/pallmal7/public_html/wp-includes/plugin.php(205): WP_Hook->apply_filters(Array, Array)
+#2 /home/pallmal7/public_html/wp-content/plugins/woocommerce/includes/class-wc-payment-gateways.php(333): apply_filters('woocommerce_ava...', Array)
+#3 /home/pallmal7/public_html/wp-content/plugins/woocommerce/src/Admin/Features/OnboardingTasks/Tasks/AdditionalPayments.php(167): WC_Payment_Gateways->get_available_payment_gateways()
+#4 /home/pallmal7/public_html/wp-content/plugins/woocommerce/src/Admin/Features/OnboardingTasks/Tasks/AdditionalPayments.php(139): Automattic\WooCommerce\Admin\Features\OnboardingTasks\Tasks\AdditionalPayments::has_enabled_gateways(Object(Closure))
+#5 /home/pallmal7/public_html/wp-content/plugins/woocommerce/src/Admin/Features/Onboar in /home/pallmal7/public_html/wp-content/themes/flatsome-child/functions.php on line 610
+[24-Jun-2024 10:13:42 UTC] PHP Fatal error:  Uncaught Error: Call to a member function get_cart() on null in /home/pallmal7/public_html/wp-content/themes/flatsome-child/functions.php:610
+Stack trace:
+#0 /home/pallmal7/public_html/wp-includes/class-wp-hook.php(324): hide_cod_for_specific_products(Array)
+#1 /home/pallmal7/public_html/wp-includes/plugin.php(205): WP_Hook->apply_filters(Array, Array)
+#2 /home/pallmal7/public_html/wp-content/plugins/woocommerce/includes/class-wc-payment-gateways.php(333): apply_filters('woocommerce_ava...', Array)
+#3 /home/pallmal7/public_html/wp-content/plugins/woocommerce/src/Admin/Features/OnboardingTasks/Tasks/AdditionalPayments.php(167): WC_Payment_Gateways->get_available_payment_gateways()
+#4 /home/pallmal7/public_html/wp-content/plugins/woocommerce/src/Admin/Features/OnboardingTasks/Tasks/AdditionalPayments.php(139): Automattic\WooCommerce\Admin\Features\OnboardingTasks\Tasks\AdditionalPayments::has_enabled_gateways(Object(Closure))
+#5 /home/pallmal7/public_html/wp-content/plugins/woocommerce/src/Admin/Features/Onboar in /home/pallmal7/public_html/wp-content/themes/flatsome-child/functions.php on line 610
+[24-Jun-2024 10:13:45 UTC] PHP Fatal error:  Uncaught Error: Call to a member function get_cart() on null in /home/pallmal7/public_html/wp-content/themes/flatsome-child/functions.php:610
+Stack trace:
+#0 /home/pallmal7/public_html/wp-includes/class-wp-hook.php(324): hide_cod_for_specific_products(Array)
+#1 /home/pallmal7/public_html/wp-includes/plugin.php(205): WP_Hook->apply_filters(Array, Array)
+#2 /home/pallmal7/public_html/wp-content/plugins/woocommerce/includes/class-wc-payment-gateways.php(333): apply_filters('woocommerce_ava...', Array)
+#3 /home/pallmal7/public_html/wp-content/plugins/woocommerce/src/Admin/Features/OnboardingTasks/Tasks/AdditionalPayments.php(167): WC_Payment_Gateways->get_available_payment_gateways()
+#4 /home/pallmal7/public_html/wp-content/plugins/woocommerce/src/Admin/Features/OnboardingTasks/Tasks/AdditionalPayments.php(139): Automattic\WooCommerce\Admin\Features\OnboardingTasks\Tasks\AdditionalPayments::has_enabled_gateways(Object(Closure))
+#5 /home/pallmal7/public_html/wp-content/plugins/woocommerce/src/Admin/Features/Onboar in /home/pallmal7/public_html/wp-content/themes/flatsome-child/functions.php on line 610
+[24-Jun-2024 10:13:52 UTC] PHP Fatal error:  Uncaught Error: Call to a member function get_cart() on null in /home/pallmal7/public_html/wp-content/themes/flatsome-child/functions.php:610
+Stack trace:
+#0 /home/pallmal7/public_html/wp-includes/class-wp-hook.php(324): hide_cod_for_specific_products(Array)
+#1 /home/pallmal7/public_html/wp-includes/plugin.php(205): WP_Hook->apply_filters(Array, Array)
+#2 /home/pallmal7/public_html/wp-content/plugins/woocommerce/includes/class-wc-payment-gateways.php(333): apply_filters('woocommerce_ava...', Array)
+#3 /home/pallmal7/public_html/wp-content/plugins/woocommerce/src/Admin/Features/OnboardingTasks/Tasks/AdditionalPayments.php(167): WC_Payment_Gateways->get_available_payment_gateways()
+#4 /home/pallmal7/public_html/wp-content/plugins/woocommerce/src/Admin/Features/OnboardingTasks/Tasks/AdditionalPayments.php(139): Automattic\WooCommerce\Admin\Features\OnboardingTasks\Tasks\AdditionalPayments::has_enabled_gateways(Object(Closure))
+#5 /home/pallmal7/public_html/wp-content/plugins/woocommerce/src/Admin/Features/Onboar in /home/pallmal7/public_html/wp-content/themes/flatsome-child/functions.php on line 610
+[24-Jun-2024 10:20:48 UTC] PHP Fatal error:  Uncaught Error: Call to a member function get_cart() on null in /home/pallmal7/public_html/wp-content/themes/flatsome-child/functions.php:605
+Stack trace:
+#0 /home/pallmal7/public_html/wp-includes/class-wp-hook.php(324): hide_cod_for_specific_products(Array)
+#1 /home/pallmal7/public_html/wp-includes/plugin.php(205): WP_Hook->apply_filters(Array, Array)
+#2 /home/pallmal7/public_html/wp-content/plugins/woocommerce/includes/class-wc-payment-gateways.php(333): apply_filters('woocommerce_ava...', Array)
+#3 /home/pallmal7/public_html/wp-content/plugins/woocommerce/src/Admin/Features/OnboardingTasks/Tasks/AdditionalPayments.php(167): WC_Payment_Gateways->get_available_payment_gateways()
+#4 /home/pallmal7/public_html/wp-content/plugins/woocommerce/src/Admin/Features/OnboardingTasks/Tasks/AdditionalPayments.php(139): Automattic\WooCommerce\Admin\Features\OnboardingTasks\Tasks\AdditionalPayments::has_enabled_gateways(Object(Closure))
+#5 /home/pallmal7/public_html/wp-content/plugins/woocommerce/src/Admin/Features/Onboar in /home/pallmal7/public_html/wp-content/themes/flatsome-child/functions.php on line 605
+[24-Jun-2024 10:21:03 UTC] PHP Fatal error:  Uncaught Error: Call to a member function get_cart() on null in /home/pallmal7/public_html/wp-content/themes/flatsome-child/functions.php:549
+Stack trace:
+#0 /home/pallmal7/public_html/wp-includes/class-wp-hook.php(324): hide_cod_for_specific_products(Array)
+#1 /home/pallmal7/public_html/wp-includes/plugin.php(205): WP_Hook->apply_filters(Array, Array)
+#2 /home/pallmal7/public_html/wp-content/plugins/woocommerce/includes/class-wc-payment-gateways.php(333): apply_filters('woocommerce_ava...', Array)
+#3 /home/pallmal7/public_html/wp-content/plugins/woocommerce/src/Admin/Features/OnboardingTasks/Tasks/AdditionalPayments.php(167): WC_Payment_Gateways->get_available_payment_gateways()
+#4 /home/pallmal7/public_html/wp-content/plugins/woocommerce/src/Admin/Features/OnboardingTasks/Tasks/AdditionalPayments.php(139): Automattic\WooCommerce\Admin\Features\OnboardingTasks\Tasks\AdditionalPayments::has_enabled_gateways(Object(Closure))
+#5 /home/pallmal7/public_html/wp-content/plugins/woocommerce/src/Admin/Features/Onboar in /home/pallmal7/public_html/wp-content/themes/flatsome-child/functions.php on line 549
+[24-Jun-2024 10:23:24 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function 'custom_admin_css' not found or invalid function name in /home/pallmal7/public_html/wp-includes/class-wp-hook.php on line 324
+[24-Jun-2024 10:23:24 UTC] PHP Fatal error:  Uncaught Error: Call to a member function get_cart() on null in /home/pallmal7/public_html/wp-content/themes/flatsome-child/functions.php:552
+Stack trace:
+#0 /home/pallmal7/public_html/wp-includes/class-wp-hook.php(324): hide_cod_for_specific_products(Array)
+#1 /home/pallmal7/public_html/wp-includes/plugin.php(205): WP_Hook->apply_filters(Array, Array)
+#2 /home/pallmal7/public_html/wp-content/plugins/woocommerce/includes/class-wc-payment-gateways.php(333): apply_filters('woocommerce_ava...', Array)
+#3 /home/pallmal7/public_html/wp-content/plugins/woocommerce/src/Admin/Features/OnboardingTasks/Tasks/AdditionalPayments.php(167): WC_Payment_Gateways->get_available_payment_gateways()
+#4 /home/pallmal7/public_html/wp-content/plugins/woocommerce/src/Admin/Features/OnboardingTasks/Tasks/AdditionalPayments.php(139): Automattic\WooCommerce\Admin\Features\OnboardingTasks\Tasks\AdditionalPayments::has_enabled_gateways(Object(Closure))
+#5 /home/pallmal7/public_html/wp-content/plugins/woocommerce/src/Admin/Features/Onboar in /home/pallmal7/public_html/wp-content/themes/flatsome-child/functions.php on line 552
+[24-Jun-2024 10:23:59 UTC] PHP Fatal error:  Uncaught Error: Call to a member function get_cart() on null in /home/pallmal7/public_html/wp-content/themes/flatsome-child/functions.php:484
+Stack trace:
+#0 /home/pallmal7/public_html/wp-includes/class-wp-hook.php(324): hide_cod_for_specific_products(Array)
+#1 /home/pallmal7/public_html/wp-includes/plugin.php(205): WP_Hook->apply_filters(Array, Array)
+#2 /home/pallmal7/public_html/wp-content/plugins/woocommerce/includes/class-wc-payment-gateways.php(333): apply_filters('woocommerce_ava...', Array)
+#3 /home/pallmal7/public_html/wp-content/plugins/woocommerce/src/Admin/Features/OnboardingTasks/Tasks/AdditionalPayments.php(167): WC_Payment_Gateways->get_available_payment_gateways()
+#4 /home/pallmal7/public_html/wp-content/plugins/woocommerce/src/Admin/Features/OnboardingTasks/Tasks/AdditionalPayments.php(139): Automattic\WooCommerce\Admin\Features\OnboardingTasks\Tasks\AdditionalPayments::has_enabled_gateways(Object(Closure))
+#5 /home/pallmal7/public_html/wp-content/plugins/woocommerce/src/Admin/Features/Onboar in /home/pallmal7/public_html/wp-content/themes/flatsome-child/functions.php on line 484
+[24-Jun-2024 10:24:46 UTC] PHP Fatal error:  Uncaught Error: Call to a member function get_cart() on null in /home/pallmal7/public_html/wp-content/themes/flatsome-child/functions.php:612
+Stack trace:
+#0 /home/pallmal7/public_html/wp-includes/class-wp-hook.php(324): hide_cod_for_specific_products(Array)
+#1 /home/pallmal7/public_html/wp-includes/plugin.php(205): WP_Hook->apply_filters(Array, Array)
+#2 /home/pallmal7/public_html/wp-content/plugins/woocommerce/includes/class-wc-payment-gateways.php(333): apply_filters('woocommerce_ava...', Array)
+#3 /home/pallmal7/public_html/wp-content/plugins/woocommerce/src/Admin/Features/OnboardingTasks/Tasks/AdditionalPayments.php(167): WC_Payment_Gateways->get_available_payment_gateways()
+#4 /home/pallmal7/public_html/wp-content/plugins/woocommerce/src/Admin/Features/OnboardingTasks/Tasks/AdditionalPayments.php(139): Automattic\WooCommerce\Admin\Features\OnboardingTasks\Tasks\AdditionalPayments::has_enabled_gateways(Object(Closure))
+#5 /home/pallmal7/public_html/wp-content/plugins/woocommerce/src/Admin/Features/Onboar in /home/pallmal7/public_html/wp-content/themes/flatsome-child/functions.php on line 612
+[24-Jun-2024 10:24:53 UTC] PHP Fatal error:  Uncaught Error: Call to a member function get_cart() on null in /home/pallmal7/public_html/wp-content/themes/flatsome-child/functions.php:601
+Stack trace:
+#0 /home/pallmal7/public_html/wp-includes/class-wp-hook.php(324): hide_cod_for_specific_products(Array)
+#1 /home/pallmal7/public_html/wp-includes/plugin.php(205): WP_Hook->apply_filters(Array, Array)
+#2 /home/pallmal7/public_html/wp-content/plugins/woocommerce/includes/class-wc-payment-gateways.php(333): apply_filters('woocommerce_ava...', Array)
+#3 /home/pallmal7/public_html/wp-content/plugins/woocommerce/src/Admin/Features/OnboardingTasks/Tasks/AdditionalPayments.php(167): WC_Payment_Gateways->get_available_payment_gateways()
+#4 /home/pallmal7/public_html/wp-content/plugins/woocommerce/src/Admin/Features/OnboardingTasks/Tasks/AdditionalPayments.php(139): Automattic\WooCommerce\Admin\Features\OnboardingTasks\Tasks\AdditionalPayments::has_enabled_gateways(Object(Closure))
+#5 /home/pallmal7/public_html/wp-content/plugins/woocommerce/src/Admin/Features/Onboar in /home/pallmal7/public_html/wp-content/themes/flatsome-child/functions.php on line 601
+[24-Jun-2024 10:25:04 UTC] PHP Fatal error:  Uncaught Error: Call to a member function get_cart() on null in /home/pallmal7/public_html/wp-content/themes/flatsome-child/functions.php:602
+Stack trace:
+#0 /home/pallmal7/public_html/wp-includes/class-wp-hook.php(324): hide_cod_for_specific_products(Array)
+#1 /home/pallmal7/public_html/wp-includes/plugin.php(205): WP_Hook->apply_filters(Array, Array)
+#2 /home/pallmal7/public_html/wp-content/plugins/woocommerce/includes/class-wc-payment-gateways.php(333): apply_filters('woocommerce_ava...', Array)
+#3 /home/pallmal7/public_html/wp-content/plugins/woocommerce/src/Admin/Features/OnboardingTasks/Tasks/AdditionalPayments.php(167): WC_Payment_Gateways->get_available_payment_gateways()
+#4 /home/pallmal7/public_html/wp-content/plugins/woocommerce/src/Admin/Features/OnboardingTasks/Tasks/AdditionalPayments.php(139): Automattic\WooCommerce\Admin\Features\OnboardingTasks\Tasks\AdditionalPayments::has_enabled_gateways(Object(Closure))
+#5 /home/pallmal7/public_html/wp-content/plugins/woocommerce/src/Admin/Features/Onboar in /home/pallmal7/public_html/wp-content/themes/flatsome-child/functions.php on line 602
+[24-Jun-2024 10:25:17 UTC] PHP Fatal error:  Uncaught Error: Call to a member function get_cart() on null in /home/pallmal7/public_html/wp-content/themes/flatsome-child/functions.php:603
+Stack trace:
+#0 /home/pallmal7/public_html/wp-includes/class-wp-hook.php(324): hide_cod_for_specific_products(Array)
+#1 /home/pallmal7/public_html/wp-includes/plugin.php(205): WP_Hook->apply_filters(Array, Array)
+#2 /home/pallmal7/public_html/wp-content/plugins/woocommerce/includes/class-wc-payment-gateways.php(333): apply_filters('woocommerce_ava...', Array)
+#3 /home/pallmal7/public_html/wp-content/plugins/woocommerce/src/Admin/Features/OnboardingTasks/Tasks/AdditionalPayments.php(167): WC_Payment_Gateways->get_available_payment_gateways()
+#4 /home/pallmal7/public_html/wp-content/plugins/woocommerce/src/Admin/Features/OnboardingTasks/Tasks/AdditionalPayments.php(139): Automattic\WooCommerce\Admin\Features\OnboardingTasks\Tasks\AdditionalPayments::has_enabled_gateways(Object(Closure))
+#5 /home/pallmal7/public_html/wp-content/plugins/woocommerce/src/Admin/Features/Onboar in /home/pallmal7/public_html/wp-content/themes/flatsome-child/functions.php on line 603
+[24-Jun-2024 10:25:31 UTC] PHP Fatal error:  Uncaught Error: Call to a member function get_cart() on null in /home/pallmal7/public_html/wp-content/themes/flatsome-child/functions.php:535
+Stack trace:
+#0 /home/pallmal7/public_html/wp-includes/class-wp-hook.php(324): hide_cod_for_specific_products(Array)
+#1 /home/pallmal7/public_html/wp-includes/plugin.php(205): WP_Hook->apply_filters(Array, Array)
+#2 /home/pallmal7/public_html/wp-content/plugins/woocommerce/includes/class-wc-payment-gateways.php(333): apply_filters('woocommerce_ava...', Array)
+#3 /home/pallmal7/public_html/wp-content/plugins/woocommerce/src/Admin/Features/OnboardingTasks/Tasks/AdditionalPayments.php(167): WC_Payment_Gateways->get_available_payment_gateways()
+#4 /home/pallmal7/public_html/wp-content/plugins/woocommerce/src/Admin/Features/OnboardingTasks/Tasks/AdditionalPayments.php(139): Automattic\WooCommerce\Admin\Features\OnboardingTasks\Tasks\AdditionalPayments::has_enabled_gateways(Object(Closure))
+#5 /home/pallmal7/public_html/wp-content/plugins/woocommerce/src/Admin/Features/Onboar in /home/pallmal7/public_html/wp-content/themes/flatsome-child/functions.php on line 535
+[24-Jun-2024 10:26:36 UTC] PHP Fatal error:  Uncaught Error: Call to a member function get_cart() on null in /home/pallmal7/public_html/wp-content/themes/flatsome-child/functions.php:590
+Stack trace:
+#0 /home/pallmal7/public_html/wp-includes/class-wp-hook.php(324): hide_cod_for_specific_products(Array)
+#1 /home/pallmal7/public_html/wp-includes/plugin.php(205): WP_Hook->apply_filters(Array, Array)
+#2 /home/pallmal7/public_html/wp-content/plugins/woocommerce/includes/class-wc-payment-gateways.php(333): apply_filters('woocommerce_ava...', Array)
+#3 /home/pallmal7/public_html/wp-content/plugins/woocommerce/src/Admin/Features/OnboardingTasks/Tasks/AdditionalPayments.php(167): WC_Payment_Gateways->get_available_payment_gateways()
+#4 /home/pallmal7/public_html/wp-content/plugins/woocommerce/src/Admin/Features/OnboardingTasks/Tasks/AdditionalPayments.php(139): Automattic\WooCommerce\Admin\Features\OnboardingTasks\Tasks\AdditionalPayments::has_enabled_gateways(Object(Closure))
+#5 /home/pallmal7/public_html/wp-content/plugins/woocommerce/src/Admin/Features/Onboar in /home/pallmal7/public_html/wp-content/themes/flatsome-child/functions.php on line 590
+[24-Jun-2024 10:42:06 UTC] PHP Warning:  Đã xảy ra lỗi không mong muốn. Có thể có sự cố với WordPress.org hoặc cấu hình của máy chủ. Nếu bạn tiếp tục gặp sự cố, vui lòng thử hỏi trong <a href="https://wordpress.org/support/forums/">diễn đàn hỗ trợ</a>. (WordPress không thể thiết lập kết nối an toàn tới WordPress.org. Vui lòng liên hệ quản trị máy chủ của bạn.) in /home/pallmal7/public_html/wp-includes/update.php on line 211
+[24-Jun-2024 10:42:12 UTC] PHP Warning:  Đã xảy ra lỗi không mong muốn. Có thể có sự cố với WordPress.org hoặc cấu hình của máy chủ. Nếu bạn tiếp tục gặp sự cố, vui lòng thử hỏi trong <a href="https://wordpress.org/support/forums/">diễn đàn hỗ trợ</a>. (WordPress không thể thiết lập kết nối an toàn tới WordPress.org. Vui lòng liên hệ quản trị máy chủ của bạn.) in /home/pallmal7/public_html/wp-includes/update.php on line 449
+[24-Jun-2024 10:42:20 UTC] PHP Warning:  Đã xảy ra lỗi không mong muốn. Có thể có sự cố với WordPress.org hoặc cấu hình của máy chủ. Nếu bạn tiếp tục gặp sự cố, vui lòng thử hỏi trong <a href="https://wordpress.org/support/forums/">diễn đàn hỗ trợ</a>. (WordPress không thể thiết lập kết nối an toàn tới WordPress.org. Vui lòng liên hệ quản trị máy chủ của bạn.) in /home/pallmal7/public_html/wp-includes/update.php on line 730
+[24-Jun-2024 13:09:08 UTC] PHP Fatal error:  Cannot redeclare display_warranty_info_on_product_page() (previously declared in /home/pallmal7/public_html/wp-content/themes/flatsome-child/functions.php:5) in /home/pallmal7/public_html/wp-content/themes/flatsome-child/functions.php on line 20
+[24-Jun-2024 20:50:58 UTC] WordPress database error Column count doesn't match value count at row 1 for query REPLACE INTO `wp_wc_order_stats` (``) VALUES () made by do_action('wp_ajax_as_async_request_queue_runner'), WP_Hook->do_action, WP_Hook->apply_filters, WP_Async_Request->maybe_handle, ActionScheduler_AsyncRequest_QueueRunner->handle, do_action('action_scheduler_run_queue'), WP_Hook->do_action, WP_Hook->apply_filters, ActionScheduler_QueueRunner->run, ActionScheduler_QueueRunner->do_batch, ActionScheduler_Abstract_QueueRunner->process_action, ActionScheduler_Action->execute, do_action_ref_array('wc-admin_import_orders'), WP_Hook->do_action, WP_Hook->apply_filters, Automattic\WooCommerce\Internal\Admin\Schedulers\ImportScheduler::do_action_or_reschedule, call_user_func_array, Automattic\WooCommerce\Internal\Admin\Schedulers\OrdersScheduler::import, Automattic\WooCommerce\Admin\API\Reports\Orders\Stats\DataStore::sync_order, Automattic\WooCommerce\Admin\API\Reports\Orders\Stats\DataStore::update
+[01-Jul-2024 02:52:35 UTC] WordPress database error Table 'pallmall_dtb.wp_options' doesn't exist for query SELECT option_value FROM wp_options WHERE option_name = '_transient_timeout_dokan_0_28416100_1719159414_get_all_seller_badges' LIMIT 1 made by require_once('wp-load.php'), require_once('wp-config.php'), require_once('wp-settings.php'), do_action('init'), WP_Hook->do_action, WP_Hook->apply_filters, WeDevs\DokanPro\Modules\SellerBadge\Module->register_badge_events, WeDevs\DokanPro\Modules\SellerBadge\RegisterBadgeEvents::instance, WeDevs\DokanPro\Modules\SellerBadge\RegisterBadgeEvents->boot, WeDevs\DokanPro\Modules\SellerBadge\Manager->get_all_seller_badges, WeDevs\Dokan\Abstracts\DokanCache::get_transient, get_transient, get_option

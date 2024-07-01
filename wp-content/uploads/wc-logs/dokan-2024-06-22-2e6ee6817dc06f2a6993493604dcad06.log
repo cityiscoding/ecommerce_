@@ -1,0 +1,6 @@
+2024-06-22T07:33:26+00:00 DEBUG Vendor Verification: Failed to send SMS. Error: Array
+(
+    [success] => 
+    [message] => Số điện thoại không hợp lệ.
+)
+
