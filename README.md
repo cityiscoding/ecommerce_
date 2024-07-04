@@ -6,9 +6,10 @@
 <p>Tải phần mềm Xampp tại <a href="https://www.apachefriends.org/download.html" target="_blank">ĐÂY</a>.</p>
 
 <h2>Bước 2: </h2> Tiến hành cài đặt ứng dụng Xampp đã tải về. Sau đó khởi động ứng dụng. Kích hoạt Apache và MYSQL.
-![image](https://github.com/cityiscoding/ecommerce_/assets/129607064/478d45a0-9112-43b6-8479-82304643bb8c)
+![screenshot_1720130703](https://github.com/cityiscoding/ecommerce_/assets/129607064/7f6d0ce9-9a13-447e-b910-10e732dbbef2)
 
 
 
 -> Copy tất cả các file vào thư mục -> C://xampp -> Khởi động Apache và MYSQL.
+
 
