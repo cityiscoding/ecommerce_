@@ -16,13 +16,13 @@
 
 <h2>Bước 7: </h2> Sau khi tạo Database thành công. Tiến hành "Nhập" file dữ liệu MYSQL có tên là "dtb.sql" trong mã nguồn sau đó chọn IMPORT để tải dữ liệu vào tên Database đa tạo trước đó.
 ![image](https://github.com/cityiscoding/ecommerce_/assets/129607064/9865d57e-65a6-4519-a475-8ee5e97ef536)
-<h2>Bước 8: </h2> Truy cập vào bảng "wp_options" của cơ sở dữ liệu để điều chỉnh thông tin về đường dẫn và Email quản trị. Tiến hành cập nhật theo đường dẫn tệp đã tạo ở bước 4: Mặc định sẽ là: http://localhost/phpmyadmin/ten_ban_da_tao . Chỉnh sửa 2 trường là "siteurl" và "home" tương tự nhau.
+<h2>Bước 8: </h2> Truy cập vào bảng "wp_options" của cơ sở dữ liệu để điều chỉnh thông tin về đường dẫn và Email quản trị. Tiến hành cập nhật theo đường dẫn tệp đã tạo ở bước 4: Mặc định sẽ là: http://localhost/phpmyadmin/ten_thu_muc_luu_source_codeo . Chỉnh sửa 2 trường là "siteurl" và "home" tương tự nhau.
 ![image](https://github.com/cityiscoding/ecommerce_/assets/129607064/6b97c0d5-7951-4812-b5df-bb44a65b811b)
 
-# Sau khi hoàn thành các bước trên. Truy cập vào trình duyệt và gõ : <a href="http://localhost/phpmyadmin" target="_blank">http://localhost/phpmyadmin/ten_thu_muc_luu_source_code</a> 
-## Lưu ý: cần thay đổi "ten_thu_muc_luu_source_code" giống như tên thư mục đã tạo ở bước 4.
-# Cách truy cập trang quản trị viên:  Truy cập vào trình duyệt và gõ : <a href="http://localhost/phpmyadmin" target="_blank">http://localhost/phpmyadmin/ten_thu_muc_luu_source_code/wp-admin</a>
-## Tên đăng nhập là "admin" và mật khẩu là "admin". Có thể chỉnh sửa thông tin chi tiết ở bảng "wp_user" tham khảo :https://vn.godaddy.com/help/thay-doi-mat-khau-wordpress-cua-toi-trong-co-so-du-lieu-26920
+## Sau khi hoàn thành các bước trên. Truy cập vào trình duyệt và gõ : <a href="http://localhost/phpmyadmin" target="_blank">http://localhost/phpmyadmin/ten_thu_muc_luu_source_code</a> 
+### Lưu ý: cần thay đổi "ten_thu_muc_luu_source_code" giống như tên thư mục đã tạo ở bước 4.
+## Cách truy cập trang quản trị viên:  Truy cập vào trình duyệt và gõ : <a href="http://localhost/phpmyadmin" target="_blank">http://localhost/phpmyadmin/ten_thu_muc_luu_source_code/wp-admin</a>
+### Tên đăng nhập là "admin" và mật khẩu là "admin". Có thể chỉnh sửa thông tin chi tiết ở bảng "wp_user" tham khảo :https://vn.godaddy.com/help/thay-doi-mat-khau-wordpress-cua-toi-trong-co-so-du-lieu-26920
 
 # Kết thúc hướng dẫn. Em xin chân thành cảm ơn!
 
