@@ -4,7 +4,7 @@
 <h1>Hướng dẫn cấu hình chạy website trên local: </h1> 
 <h2>Bước 1: </h2> 
 <p>Tải phần mềm Xampp tại <a href="https://www.apachefriends.org/download.html" target="_blank">ĐÂY</a>.</p>
-
+![thẻ alt của ảnh]([đường dẫn ảnh](https://github.com/cityiscoding/ecommerce_/assets/129607064/7f6d0ce9-9a13-447e-b910-10e732dbbef2))
 <h2>Bước 2: </h2> Tiến hành cài đặt ứng dụng Xampp đã tải về. Sau đó khởi động ứng dụng. Kích hoạt Apache và MYSQL.
 ![screenshot_1720130703](https://github.com/cityiscoding/ecommerce_/assets/129607064/7f6d0ce9-9a13-447e-b910-10e732dbbef2)
 
