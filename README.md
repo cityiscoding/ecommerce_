@@ -2,7 +2,7 @@
 <h1>PHÂN HIỆU TRƯỜNG ĐẠI HỌC BÌNH DƯƠNG - CÀ MAU</h1>
 <h2>ĐỒ ÁN TỐT NGHIỆP</h2>
 <h2> Đề tài: Xây dựng hệ thống bán hàng thương mại điện tử đa nền tảng. </h3>
-<h3>GVTD TH.S: TRẦN HỮU DUÂT</h3><br>
+<h3>GVTD TH.S: TRẦN HỮU DUÂT</h3>
 <h3>SVTH: TRẦN THÀNH PHỐ </h3>
 <h3>MSSV: 200501022</h3>
 <h3> Đề tài: Xây dựng hệ thống bán hàng thương mại điện tử đa nền tảng. </h3>
