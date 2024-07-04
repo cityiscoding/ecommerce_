@@ -1,6 +1,6 @@
-  <h2>BỘ GIÁO DỤC VÀ ĐÀO TẠO</h2>
+<h2>BỘ GIÁO DỤC VÀ ĐÀO TẠO</h2>
 <h1>PHÂN HIỆU TRƯỜNG ĐẠI HỌC BÌNH DƯƠNG - CÀ MAU</h1> <br>
-             <h2>ĐỒ ÁN TỐT NGHIỆP</h2>
+h2>ĐỒ ÁN TỐT NGHIỆP</h2>
 <h2> Đề tài: Xây dựng hệ thống bán hàng thương mại điện tử đa nền tảng. </h3>
 ##GVTD TH.S: TRẦN HỮU DUÂT
 ##SVTH: TRẦN THÀNH PHỐ 
