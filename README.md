@@ -1,10 +1,10 @@
 <h2>BỘ GIÁO DỤC VÀ ĐÀO TẠO</h2>
 <h1>PHÂN HIỆU TRƯỜNG ĐẠI HỌC BÌNH DƯƠNG - CÀ MAU</h1>
-# ĐỒ ÁN TỐT NGHIỆP
+#ĐỒ ÁN TỐT NGHIỆP
 <h2> Đề tài: Xây dựng hệ thống bán hàng thương mại điện tử đa nền tảng. </h3>
-## GVTD TH.S: TRẦN HỮU DUÂT
-## SVTH: TRẦN THÀNH PHỐ
-## MSSV: 200501022
+##GVTD TH.S: TRẦN HỮU DUÂT
+##SVTH: TRẦN THÀNH PHỐ 
+##MSSV: 200501022
 <h3> Đề tài: Xây dựng hệ thống bán hàng thương mại điện tử đa nền tảng. </h3>
 
 <h3>Ấn để tải Source và cơ sở dữ liệu: <a href="https://codeload.github.com/cityiscoding/ecommerce_/zip/refs/heads/main" target="_blank">[http://localhost/phpmyadmin](https://codeload.github.com/cityiscoding/ecommerce_/zip/refs/heads/main)</a>  </h2>
