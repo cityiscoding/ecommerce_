@@ -10,6 +10,6 @@
 ![screenshot_1720131301](https://github.com/cityiscoding/ecommerce_/assets/129607064/0fe9d859-734e-4d94-ba6e-54785fba6a85)
 <h2>Bước 4: </h2> Tại đây hãy tạo một thư mục mới tên bất kỳ sao đó sao chép toàn bộ mã nguồn của đề tài vào bên trong tên thư mục đã tạo : C://xampp/htdocs/
 
-<h2>Bước 5: </h2> Truy cập trình duyệt và truy cập: <a href="https://www.w3schools.com" target="_blank">http://localhost/phpmyadmin</a> 
+<h2>Bước 5: </h2> Truy cập trình duyệt và truy cập: <a href="http://localhost/phpmyadmin" target="_blank">http://localhost/phpmyadmin</a> 
 
 
