@@ -4,12 +4,12 @@
 <h1>Hướng dẫn cấu hình chạy website trên local: </h1> 
 <h2>Bước 1: </h2> 
 <p>Tải phần mềm Xampp tại <a href="https://www.apachefriends.org/download.html" target="_blank">ĐÂY</a>.</p>
-![thẻ alt của ảnh]([đường dẫn ảnh](https://github.com/cityiscoding/ecommerce_/assets/129607064/7f6d0ce9-9a13-447e-b910-10e732dbbef2))
 <h2>Bước 2: </h2> Tiến hành cài đặt ứng dụng Xampp đã tải về. Sau đó khởi động ứng dụng. Kích hoạt Apache và MYSQL.
 ![screenshot_1720130703](https://github.com/cityiscoding/ecommerce_/assets/129607064/7f6d0ce9-9a13-447e-b910-10e732dbbef2)
+<h2>Bước 3: </h2> Truy cập vào thư mục chứa Xampp. Mặc định là C://xampp/htdocs/
+![screenshot_1720131301](https://github.com/cityiscoding/ecommerce_/assets/129607064/0fe9d859-734e-4d94-ba6e-54785fba6a85)
+<h2>Bước 4: </h2> Tại đây hãy tạo một thư mục mới tên bất kỳ sao đó sao chép toàn bộ mã nguồn của đề tài vào bên trong tên thư mục đã tạo : C://xampp/htdocs/
 
-
-
--> Copy tất cả các file vào thư mục -> C://xampp -> Khởi động Apache và MYSQL.
+<h2>Bước 5: </h2> Truy cập trình duyệt và truy cập: <a href="https://www.w3schools.com" target="_blank">http://localhost/phpmyadmin</a> 
 
 
